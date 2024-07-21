@@ -1,4 +1,3 @@
-```markdown
 # Project Overview
 
 This README file provides an overview of the various tasks and scripts involved in processing reservation, conversation, and vehicle data. Each task is explained with its objective, output, and the script used.
@@ -174,4 +173,4 @@ This python script extracts questions and their answers based on the occurrence 
 
 **Method:** 
 The extracted QA pairs were fed to ChatGPT to generate the final FAQs.
-```
+
